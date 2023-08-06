@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541120198684",
+    "project_id": "fees-management-app-40028",
+    "storage_bucket": "fees-management-app-40028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541120198684:android:731d01c79fcae2bf09c7d9",
+        "android_client_info": {
+          "package_name": "com.seharschool.final_year_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541120198684-8g7vfn8mk282dnb47j2m156v6e1fquds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ1ZUKQH6mLyMR-5O4WWi2F2szUXuXo68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541120198684-8g7vfn8mk282dnb47j2m156v6e1fquds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
